@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Monet4</string>
+    <string name="add">Add</string>
+    <string name="refresh">Refresh</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="copyright">Copyright</string>
+
+    <string name="remove">Remove</string>
+    <string name="select">Select</string>
+    <string name="copy">Copy</string>
+    <string name="clear">Clear</string>
+    <string name="cancel">Cancel</string>
+    <string name="chart">Chart</string>
+
+    <string name="invert">Invert</string>
+    <string name="new_chart">New chart</string>
+    <string name="hist">Historical</string>
+
+    <string name="euro_name">EUR</string>
+    <string name="euro_symbol">€</string>
+    <string name="num_one">1</string>
+    <string name="not_updated">Not updated</string>
+    <string name="updated">Updated: %s</string>
+    <string name="ok">OK</string>
+    <string name="updating">Updating</string>
+    <string name="failed">Failed</string>
+    <string name="no_connection">No connection</string>
+    <string name="no_wifi">No WiFi</string>
+    <string name="roaming">Roaming</string>
+    <string name="update_failed">Update failed</string>
+
+    <string name="decimal">Enter decimal value</string>
+    <string name="digits">0123456789,.</string>
+
+    <string name="pref_about">About</string>
+    <string name="pref_about_summ">Currency version %s</string>
+    <string name="pref_update_category">Update</string>
+    <string name="pref_wifi">WiFi</string>
+    <string name="pref_wifi_summ">Update on WiFi only</string>
+    <string name="pref_roaming">Roaming</string>
+    <string name="pref_roaming_summ">Update while roaming</string>
+    <string name="pref_select">Selection</string>
+    <string name="pref_select_summ">Select all when touched</string>
+    <string name="pref_numbers">Numbers</string>
+    <string name="pref_digits">Fraction digits</string>
+    <string name="pref_digit_default">3</string>
+    <string name="pref_fill">Fill</string>
+
+    <string name="long_eur">Euro</string>
+    <string name="long_usd">US dollar</string>
+    <string name="long_jpy">Japanese yen</string>
+    <string name="long_bgn">Bulgarian lev</string>
+    <string name="long_czk">Czech koruna</string>
+    <string name="long_dkk">Danish krone</string>
+    <string name="long_gbp">Pound sterling</string>
+    <string name="long_huf">Hungarian forint</string>
+    <string name="long_pln">Polish zloty</string>
+    <string name="long_ron">Romanian leu</string>
+    <string name="long_sek">Swedish krona</string>
+    <string name="long_chf">Swiss franc</string>
+    <string name="long_nok">Norwegian krone</string>
+    <string name="long_hrk">Croatian kuna</string>
+    <string name="long_rub">Russian rouble</string>
+    <string name="long_try">Turkish lira</string>
+    <string name="long_aud">Australian dollar</string>
+    <string name="long_brl">Brasilian real</string>
+    <string name="long_cad">Canadian dollar</string>
+    <string name="long_cny">Chinese yuan renminbi</string>
+    <string name="long_hkd">Hong Kong dollar</string>
+    <string name="long_idr">Indonesian rupiah</string>
+    <string name="long_ils">Israeli shekel</string>
+    <string name="long_inr">Indian rupee</string>
+    <string name="long_krw">South Korean won</string>
+    <string name="long_mxn">Mexican peso</string>
+    <string name="long_myr">Malaysian ringgit</string>
+    <string name="long_nzd">New Zealand dollar</string>
+    <string name="long_php">Philippine peso</string>
+    <string name="long_sgd">Singapore dollar</string>
+    <string name="long_thb">Thai baht</string>
+    <string name="long_zar">South African rand</string>
+</resources>
